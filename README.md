@@ -14,4 +14,4 @@ UFC fight prediction machine learning model that incorporates linear regression 
 
 ### [05/2020] - Project initialization
 - Added `UFCStats_WebScraper.py`
-- Added `ufc_prediction_model_nn.py` for UFC stats prediction using a neural network model.
+- Added `ufc_prediction_model_nn.py` for UFC fight prediction using a neural network model.
