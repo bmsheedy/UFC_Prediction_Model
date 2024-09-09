@@ -1,4 +1,4 @@
-# UFC_Prediction_Model
+# UFC Prediction Model
 UFC fight prediction machine learning model that incorporates linear regression and neural network deep learning, along with a web scraper designed to collect statistics for the model from [ufcstats.com](https://www.ufcstats.com/).
 
 ## Changelog
